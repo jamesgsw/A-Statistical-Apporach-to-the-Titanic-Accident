@@ -7,5 +7,4 @@ In addition, my personal goal for this projet is to use this project as an appli
 ### Files in Repo
 There are 5 files in this repo. 
 <br>"Analysis & Prediction for Titanic-Statistical View.ipynb" is the heart of this project with the analysis and codes inside a Jupiter Notebook file.
-<br> "ANOVA Test.png" & "Chi-Sqaured Test.png" contains the mathematical notation and formulas that I used for my Bivariate Analysis attained from my university Statistics Module.
 <br> "train.csv" is the dataset that I utilised for my analysis. "test.csv" contains the data for the test done for the Kaggle competition.
