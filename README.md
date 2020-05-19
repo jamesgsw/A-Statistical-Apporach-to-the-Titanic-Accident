@@ -26,11 +26,11 @@ In addition, my personal goal for this project is to use this project as an appl
 
 <a id= "point_3_1"> <b> 3.1 Exploratory Analysis </b> </a>  
 For the analysis component of the project: Through the statistical test conducted, I've found that the factors that had the biggest impact on the survivability of passengers are the Fare, Sex, Ticket Class, Port of Embarkation and Size of family. While the age, Social Status and Ticket Number had little statistical significance with the survivability of passengers.
-![Exploratory Analysis](/Users/James/Desktop/Exploratory\ Analysis.png)
+<img src = "/Users/James/Desktop/Exploratory\ Analysis.png">
 
 <a id= "point_3_2"> <b> 3.2 Correlation Matrix </b> </a>  
 The correlation matrix gives an overview the coefficient of determination for the different factors, which will be subsequently used in point 3.3
-![Correlation Matrix](/Users/James/Desktop/Correlation\ Matrix.png)
+<img src = "/Users/James/Desktop/Correlation\ Matrix.png">
 
 <a id= "point_3_3"> <b> 3.3 Regression and Machine Learning Models </b>  </a>  
 For the forecasting component of the project: We tested various regression and machine learning algorithms, and evaluated their performance based off the mathematical score and validation algorithm. Through this evaluation, I determined that the Logistics Algorithm delivered the a high score within a reasonable computation time and would be my preferred algorithm to predict the survivability of passengers.
