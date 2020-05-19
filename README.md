@@ -1,5 +1,5 @@
 <header> A Statistical Approach to the Titanic Accident </header>
-<br> </br>
+
 #### Table of Contents
 * [About the  Project](#point_1)
 * [Personal Motivation for this project](#point_2)
