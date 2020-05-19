@@ -1,5 +1,6 @@
 <header> A Statistical Approach to the Titanic Accident </header>  
 
+<body>
 <b> Table of Contents </b>
 * [About the  Project](#point_1)
 * [Personal Motivation for this project](#point_2)
@@ -39,3 +40,4 @@ There are 4 files in this repo.
 <br>"Analysis & Prediction for Titanic-Statistical View.ipynb" is the heart of this project with the analysis and codes inside a Jupiter Notebook file.
 <br> "train.csv" is the dataset that I utilised for my analysis. "test.csv" contains the data for the test done for the Kaggle competition.
 <br> The last file is this 'README.md' file given the overview of this project in plain text.
+</body>
