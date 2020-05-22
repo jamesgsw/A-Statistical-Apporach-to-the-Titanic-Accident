@@ -39,7 +39,7 @@ For the forecasting component of the project: We tested various regression and m
 
 <a id= "point_4"></a>  
 ## 4. Usage
-The project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/jamesgsw/A-Statistical-Approach-to-the-Titanic-Accident/blob/master/Analysis%20%26%20Prediction%20for%20the%20Titanic%20accident.ipynb). In this notebook, you will find a work done and the respective code.
+The project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/jamesgsw/A-Statistical-Approach-to-the-Titanic-Accident/blob/master/Analysis%20%26%20Prediction%20for%20the%20Titanic%20accident.ipynb). In this notebook, you will the exploratory analysis, foreacasting modelling and my personal inputs along the way.
 
 
 <a id= "point_5"></a>  
