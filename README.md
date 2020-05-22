@@ -45,6 +45,7 @@ The project is best viewed in a notebook viewer, which can be accessed [here](ht
 <a id= "point_5"></a>  
 ## 5. Files in this Repository
 There are 4 files in this repo.
-<br>"Analysis & Prediction for Titanic-Statistical View.ipynb" is the heart of this project with the analysis and codes inside a Jupiter Notebook file.
-<br> "train.csv" is the dataset that I utilised for my analysis. "test.csv" contains the data for the test done for the Kaggle competition.
-<br> The last file is this 'README.md' file given the overview of this project in plain text.
+* "Analysis & Prediction for Titanic-Statistical View.ipynb" is the heart of this project with the analysis and codes inside a Jupiter Notebook file.
+* "train.csv" is the dataset that I utilised for my analysis. "test.csv" contains the data for the test done for the Kaggle competition.
+* "LICENSE.md": This project is under the MIT license for open source use.
+* The last file is this 'README.md' file given the overview of this project in plain text.
