@@ -9,6 +9,7 @@
     * [4.2 Correlation Matrix](#point_4_2)
     * [4.3 Regression and Machine Learning Models](#point_4_3)
 * [5. Files in this Repository](#point_5)
+* [6. Acknowledgement](#point_6)
 
 
 <a id= "point_1"></a>
@@ -49,3 +50,7 @@ There are 4 files in this repo.
 * "train.csv" is the dataset that I utilised for my analysis. "test.csv" contains the data for the test done for the Kaggle competition.
 * "LICENSE.md": This project is under the MIT license for open source use.
 * The last file is this 'README.md' file given the overview of this project in plain text.
+
+<a id= "point_6"></a>
+## 6. Acknowledgement
+This project would not have been possible without the many resources online espacially from Kaggle. I would like to thank [Mr Md Faysal](https://www.linkedin.com/in/md-faysal-8b6a58174/) for his notebook analysis on this topic, which I drew many references and ideas from.
